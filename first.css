@@ -1,0 +1,12 @@
+.hihi{
+
+    border: 1px;
+    width: 400px;
+    margin:auto;
+    border-bottom-color: red;
+    margin-top: 150px;
+    padding: 10px;
+}
+body{
+    background-color: springgreen;
+}
